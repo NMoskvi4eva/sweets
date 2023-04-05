@@ -467,6 +467,9 @@ body {
     .review-title {
         color: #FFFFFF;
     }
+    .review-photo {
+        display: none;
+    }
 }
 /* ORDER GALLERY */
 .card-inst {
